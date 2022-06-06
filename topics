@@ -1,0 +1,16 @@
+string pool, immutable objects, streams
+design patterns
+spring bean scopes, bean lifecycle
+spring boot, sprin boot starter dependency
+collections
+hibernate cash, session, lifecycle
+garbage collector
+diamond problem inheritance
+n + 1 problem, fectch types
+type erasure
+jvm, jre, jdk
+generics
+concurrenccy, livelock, deadlock, race condition, starvation
+http request, rest principles
+runnable vs extends thread,
+mvn lifecycle
