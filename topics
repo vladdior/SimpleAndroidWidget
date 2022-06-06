@@ -10,7 +10,7 @@ n + 1 problem, fectch types
 type erasure
 jvm, jre, jdk
 generics
-concurrenccy, livelock, deadlock, race condition, starvation
+concurrency, livelock, deadlock, race condition, starvation
 http request, rest principles
 runnable vs extends thread,
 mvn lifecycle
