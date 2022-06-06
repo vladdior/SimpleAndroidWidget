@@ -1,7 +1,7 @@
 string pool, immutable objects, streams
 design patterns
 spring bean scopes, bean lifecycle
-spring boot, sprin boot starter dependency
+spring boot, spring boot starter dependencies
 collections
 hibernate cash, session, lifecycle
 garbage collector
