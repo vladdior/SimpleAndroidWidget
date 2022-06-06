@@ -14,3 +14,4 @@ concurrency, livelock, deadlock, race condition, starvation
 http request, rest principles
 runnable vs extends thread,
 mvn lifecycle
+unchecked vs checked exceptions
