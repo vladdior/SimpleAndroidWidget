@@ -1,17 +1,39 @@
 string pool, immutable objects, streams
 design patterns
-spring bean scopes, bean lifecycle
+spring bean scopes, bean lifecycle, circular dependecy problem
+how spring names beans by default
+how spring creates beans using different injection types
 spring boot, spring boot starter dependencies
 collections
 hibernate cash, session, lifecycle
 garbage collector
-diamond problem inheritance
+diamond problem with interfaces
 n + 1 problem, fectch types
-type erasure
+type erasure, generics
 jvm, jre, jdk
-generics
-concurrency, livelock, deadlock, race condition, starvation
+concurrency, livelock, deadlock, race condition, starvation, 
+callable, future, executor service, thread lifecycle
+runnable vs extends thread
 http request, rest principles
-runnable vs extends thread,
 mvn lifecycle
 unchecked vs checked exceptions
+composition vs inheritance
+interfaces vs abstract classes
+oop, solid
+declarative transaction management
+what is mocking, why do we need it
+java memory types
+dry, kiss, yagni
+dependency injection, ioc
+acid principles
+git, rebase vs merge
+inner class types java
+equal & hashcode
+sql, joins, indexes, triggers, procedures vs functions
+cascade types
+static binding, dynamic binding
+hibernate locks
+reference types in java
+static & dynamic binding
+method hiding
+proxy pattern, main proxying methods in java, proxy with spring
