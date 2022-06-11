@@ -1,0 +1,16 @@
+https://www.geeksforgeeks.org/7-must-have-intellij-idea-plugins-for-java-developers/?ref=leftbar-rightbar
+https://git-scm.com/book/en/v2
+https://web.microsoftstream.com/video/fc21619b-c015-4090-9b64-d7d8490244f7
+https://jesusvalerareales.medium.com/testing-with-test-doubles-7c3abb9eb3f2
+https://www.arhohuttunen.com/junit-5-parameterized-tests/#:~:text=Parameterized%20tests%20make%20it%20possible,use%20the%20%40ParameterizedTest%20annotation%20instead.
+https://flywaydb.org/documentation/getstarted/why
+https://www.codewars.com/?language=java
+https://www.vogella.com/tutorials/Mockito/article.html
+https://www.journaldev.com/7989/key-components-and-internals-of-spring-boot-framework
+https://javabydeveloper.com/difference-between-joincolumn-and-mappedby/#:~:text=mappedBy%20attribute,One%2DTo%2DMany%20association.
+https://www.youtube.com/watch?v=QwQuro7ekvc
+https://www.youtube.com/watch?v=her_7pa0vrg
+https://www.baeldung.com/spring-boot-testing
+https://www.freecodecamp.org/news/how-to-setup-jwt-authorization-and-authentication-in-spring/
+https://hevodata.com/learn/docker-postgresql/
+https://sysout.ru/nastrojka-cors-v-spring-security/
